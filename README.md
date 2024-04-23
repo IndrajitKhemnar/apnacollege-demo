@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Repository.
 <br>
-Author - indrajit Khemnar
+Author - indrajit (apna college)
